@@ -1,2 +1,2 @@
-# Inicio
-Primeiras criações
+# Exerc. Python
+CAP01/Números
